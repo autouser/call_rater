@@ -24,6 +24,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "activerecord", "~> 4.0"
   spec.add_dependency "mysql2"
   spec.add_dependency "database_cleaner"
-  spec.add_dependency "protected_attributes"
   spec.add_dependency "thor"
 end
